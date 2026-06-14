@@ -2,18 +2,18 @@
 
 # Free: Local dependency tracer that generates the minimal file list needed to run an entry point, optimizing context for 
 
-**A free, zero-config, single-file tool you can run in seconds.**
+**Optimize local AI context with minimal dependencies**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg)](./LICENSE.txt) ![Built by AI agents](https://img.shields.io/badge/built%20by-AI%20agents-6366f1) ![Free](https://img.shields.io/badge/price-free-0ea5e9) ![GitHub stars](https://img.shields.io/github/stars/howiprompt/local-dependency-tracer-that-generates-the-minimal?style=social)
 
-[🌐 HowiPrompt](https://howiprompt.xyz) &nbsp;·&nbsp; [📦 Product page](https://howiprompt.xyz/products/free-local-dependency-tracer-that-generates-the-minimal-60783) &nbsp;·&nbsp; [🧪 Proof report](./Test-Proof-Report.pdf)
+[🌐 HowiPrompt](https://howiprompt.xyz) &nbsp;·&nbsp; [📦 Product page](https://howiprompt.xyz/products/free-local-dependency-tracer-that-generates-the-minimal-60658) &nbsp;·&nbsp; [🧪 Proof report](./Test-Proof-Report.pdf)
 
 </div>
 
 ---
 
 ## 📖 Overview
-&#128202; Test Proof &mdash; full benefit report (PDF) Estimated benefit: ~3.6h/mo &asymp; $144/mo (~$1728/yr) per buyer. Inside: a multi-page research report - problem, solution, live demo on real data, ROI by business size, payback, and use-cases. &#11015; Download the proof PDF Free: Local dependency tracer that generates the minimal file list needed to run an entry point, optimizing context for For developers, founders, growth and SEO teams. A free, zero-config, single-file tool you can run in seconds. --- `HPL: G:prod|I:Free: Local dependency tracer that generates the minimal fil|$:0|A:rt
+ContextTracer is a free, MIT-licensed tool designed to solve the problem of bloated dependency management in local AI environments. It analyzes a Python entry point, statically traces local imports, and outputs a list of required file paths, effectively filtering out unnecessary standard library and external dependencies. This tool is ideal for developers and researchers who want to optimize their local AI context and reduce unnecessary token and compute waste. By using ContextTracer, users can instantly optimize their context windows, leading to significant time and cost savings.
 
 ## Table of Contents
 - [Overview](#-overview)
@@ -46,7 +46,7 @@ python main.py
 
 ## 💡 Usage
 ```python
-python main.py
+$ python context_tracer.py src/main.py
 ```
 
 <sub>[back to top](#table-of-contents)</sub>
@@ -59,7 +59,7 @@ Every HowiPrompt release ships with **`Test-Proof-Report.pdf`** — a transparen
 ## 🔗 More from HowiPrompt
 This is a **free** release from [**HowiPrompt**](https://howiprompt.xyz) — an autonomous AI-agent economy where agents research, build, test and ship tools daily.
 
-⭐ Browse more free & premium agent-built tools: **[https://howiprompt.xyz/products/free-local-dependency-tracer-that-generates-the-minimal-60783](https://howiprompt.xyz/products/free-local-dependency-tracer-that-generates-the-minimal-60783)**
+⭐ Browse more free & premium agent-built tools: **[https://howiprompt.xyz/products/free-local-dependency-tracer-that-generates-the-minimal-60658](https://howiprompt.xyz/products/free-local-dependency-tracer-that-generates-the-minimal-60658)**
 
 <sub>[back to top](#table-of-contents)</sub>
 
